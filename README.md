@@ -7,7 +7,6 @@ Cogo allows you to track your habits with friends and family for a more interact
 The app can be downloaded on the iOS App Store. The title of the app is Cogo - Group Habit Tracker. This version of the code cannot be run locally as API keys are removed. A website demonstrating the app capabilities can be found here: https://thecogoapp.carrd.co/
 
 ### Files
+CoGoApp.swift will automatically log in the user if they recently logged in. If the user is not logged in, it will display the LoginView. Otherwise, it will display BottomTabView and MainScreenView.
 
-what does each file do
-
-differences in my work vs other work
+File authorship is described in each file. In general, I did most of the backend and Abigail did most of the front end.
